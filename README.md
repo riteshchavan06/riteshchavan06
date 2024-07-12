@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+![MasterHead]([https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif](https://media.licdn.com/dms/image/C4E12AQFJimUSTnwveQ/article-cover_image-shrink_600_2000/0/1630496407547?e=2147483647&v=beta&t=gDkf8noaAvHmzwBLONSyRRvXTTbroVKtpcZ39PbSy_E))
 <h1 align="center">Hi 👋, I'm Ritesh Chavan</h1>
 <h3 align="center">A passionate developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*VMmvImch6VU5pc2VktY1uw.gif">
